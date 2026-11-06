@@ -10,7 +10,7 @@
 
 > **声明**：LazyMan Chat与LuckAI Chat都是第三方服务平台与 OpenAI 无隶属或代理关系。本文所称“镜像站”是行业中的习惯叫法，实际通常是独立运营、通过模型 API 提供服务的第三方平台，并非 OpenAI 官方镜像。站点可用性、模型、价格和条款可能变化，请以各平台实时页面为准。
 
-<img src="/images/chatgpt-home.png" alt="ChatGPT官网入口中文界面" width="2644" height="1538" loading="eager" decoding="async">
+<img src="https://www.chatgpt-chinese.org/images/chatgpt-home.png" alt="ChatGPT官网入口中文界面" width="2644" height="1538" loading="eager" decoding="async">
 
 ## 一分钟看懂：应该选官网还是镜像
 
@@ -102,7 +102,7 @@ ChatGPT 官网可以直接输入中文，无需安装“中文语言包”。第
 5. 如果收到明确的地区、账号或支付限制提示，应按帮助中心流程处理，不要反复注册或频繁切换账号。
 6. 账号被锁定、扣费异常或无法取消订阅时，通过 [OpenAI 帮助中心](https://help.openai.com)联系官方支持。
 
-更详细的排错方法可参考站内的 [ChatGPT 官网打不开解决方案](/blog/guides/chatgpt/chatgpt-alternative-solutions.html)，以及 [ChatGPT 国内使用避坑指南](/blog/guides/chatgpt/chatgpt-pitfalls-guide-2026.html) 中整理的常见失效原因。如果只是想先跑通一次对话，[国内使用 ChatGPT 的三种方法](/blog/guides/chatgpt/chatgpt-three-methods-guide.html) 按难度从低到高排列，可以挑一种适合自己网络条件的。
+更详细的排错方法可参考站内的 [ChatGPT 官网打不开解决方案](https://www.chatgpt-chinese.org/blog/guides/chatgpt/chatgpt-alternative-solutions.html)，以及 [ChatGPT 国内使用避坑指南](https://www.chatgpt-chinese.org/blog/guides/chatgpt/chatgpt-pitfalls-guide-2026.html) 中整理的常见失效原因。如果只是想先跑通一次对话，[国内使用 ChatGPT 的三种方法](https://www.chatgpt-chinese.org/blog/guides/chatgpt/chatgpt-three-methods-guide.html) 按难度从低到高排列，可以挑一种适合自己网络条件的。
 
 ## 国内使用 ChatGPT 镜像的完整方案
 
@@ -125,9 +125,9 @@ ChatGPT 官网可以直接输入中文，无需安装“中文语言包”。第
 | [LazyManChat](https://lazymanchat.com) | 日常中文对话、多模型体验 | 当前模型列表、免费额度、文件保存规则 |
 | [LuckAIChat](https://ai.luckaichat.com) | 文件分析、联网与多模型任务 | 计费单位、上传文件保留时间、退款渠道 |
 
-第三方服务会发生域名、功能和价格变化。若页面证书异常、频繁跳转、无法查看运营与隐私信息，或者要求提供 OpenAI 密码和 API Key，应立即停止使用。判断某个入口是不是真官网，可以对照 [ChatGPT 官网真假识别指南](/blog/guides/chatgpt/chatgpt-com-official-entry-verification-2026.html) 里的域名核验方法；如果更在意登录环节的安全，[ChatGPT 官网登录与安全使用指南](/blog/guides/chatgpt/gpt-official-entry-safe-use.html) 把账号、密码和验证码的注意事项单独拆开讲过。
+第三方服务会发生域名、功能和价格变化。若页面证书异常、频繁跳转、无法查看运营与隐私信息，或者要求提供 OpenAI 密码和 API Key，应立即停止使用。判断某个入口是不是真官网，可以对照 [ChatGPT 官网真假识别指南](https://www.chatgpt-chinese.org/blog/guides/chatgpt/chatgpt-com-official-entry-verification-2026.html) 里的域名核验方法；如果更在意登录环节的安全，[ChatGPT 官网登录与安全使用指南](https://www.chatgpt-chinese.org/blog/guides/chatgpt/gpt-official-entry-safe-use.html) 把账号、密码和验证码的注意事项单独拆开讲过。
 
-<img src="/images/chatgpt_pitfalls_guide_2026.png" alt="国内使用ChatGPT前的访问与安全检查" width="640" height="640" loading="lazy" decoding="async">
+<img src="https://www.chatgpt-chinese.org/images/chatgpt_pitfalls_guide_2026.png" alt="国内使用ChatGPT前的访问与安全检查" width="640" height="640" loading="lazy" decoding="async">
 
 ### 镜像站六项安全检查
 
@@ -172,11 +172,11 @@ ChatGPT 官网可以直接输入中文，无需安装“中文语言包”。第
 
 ### 三类用户的选择建议
 
-**学生和个人用户**：先用免费方案验证是否真的需要高阶功能。用于总结公开资料、语言练习和头脑风暴时，官网或可信第三方均可；不要上传包含个人身份信息的作业或档案。想先控制成本的话，[免费使用 ChatGPT 的方法与额度说明](/blog/guides/chatgpt/free-chatgpt-usage-methods.html) 对比了各家免费额度的实际限制。
+**学生和个人用户**：先用免费方案验证是否真的需要高阶功能。用于总结公开资料、语言练习和头脑风暴时，官网或可信第三方均可；不要上传包含个人身份信息的作业或档案。想先控制成本的话，[免费使用 ChatGPT 的方法与额度说明](https://www.chatgpt-chinese.org/blog/guides/chatgpt/free-chatgpt-usage-methods.html) 对比了各家免费额度的实际限制。
 
 **职场用户**：优先使用公司批准的企业工具。个人购买的镜像站即使方便，也不应处理客户数据、合同、会议录音、内部报表和代码仓库。
 
-**开发者**：如果要把模型接入程序，应优先使用 [OpenAI API 平台](https://platform.openai.com)或模型厂商的正式 API。把个人 ChatGPT 订阅当成 API 使用，或购买不明来源的共享 Key，稳定性和安全性都不可控。可继续阅读 [OpenAI API 使用指南](/blog/guides/chatgpt-dev/openai-api-guide)。
+**开发者**：如果要把模型接入程序，应优先使用 [OpenAI API 平台](https://platform.openai.com)或模型厂商的正式 API。把个人 ChatGPT 订阅当成 API 使用，或购买不明来源的共享 Key，稳定性和安全性都不可控。可继续阅读 [OpenAI API 使用指南](https://www.chatgpt-chinese.org/blog/guides/chatgpt-dev/openai-api-guide)。
 
 ## 官网与镜像组合使用方案
 
@@ -240,6 +240,6 @@ ChatGPT 官网可以直接输入中文，无需安装“中文语言包”。第
 - **第三方镜像平台**更强调本地访问、中文界面和多模型聚合，但数据、模型、费用和售后均由第三方负责；
 - 不管使用哪种方案，都应核对域名、使用独立密码、开启安全验证、限制上传内容，并对 AI 输出进行事实复核。
 
-如果你刚开始接触 ChatGPT，可继续阅读 [3 分钟 ChatGPT 新手指南](/blog/guides/chatgpt/what-is-chatgpt.html)；需要系统学习提问方式，可参考 [ChatGPT 提示词工程完整指南](/blog/guides/chatgpt/chatgpt-prompt-engineering-guide)。
+如果你刚开始接触 ChatGPT，可继续阅读 [3 分钟 ChatGPT 新手指南](https://www.chatgpt-chinese.org/blog/guides/chatgpt/what-is-chatgpt.html)；需要系统学习提问方式，可参考 [ChatGPT 提示词工程完整指南](https://www.chatgpt-chinese.org/blog/guides/chatgpt/chatgpt-prompt-engineering-guide)。
 
 > 本文仅提供产品入口与一般性使用信息，不构成对任何第三方平台的安全、稳定或合规保证。请以 OpenAI 及各平台最新服务条款为准。
